@@ -1,6 +1,6 @@
 An initial demo of a chat with gemini using its api via https requests (because the gemini python sdk doesn't support python3.7)
 
-how to run this thing
+how to run:
 
 first you need python 3.7 and git.
 
